@@ -1,0 +1,6 @@
+error: failed to create deployment: deployments.apps "prediction-dep" already exists
+NAME                              READY   STATUS    RESTARTS   AGE
+prediction-dep-59b85bdd4d-964w8   1/1     Running   0          11m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
