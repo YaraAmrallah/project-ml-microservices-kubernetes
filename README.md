@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+# Template:
+[YaraAmrallah](https://circleci.com/github/YaraAmrallah/project-ml-microservices-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/YaraAmrallah/project-ml-microservices-kubernetes)
 
 ## Project Overview
 
